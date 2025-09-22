@@ -1,0 +1,94 @@
+streamlit
+opencv-python
+tensorflow
+keras
+numpy
+pillow
+
+# 1. Streamlit
+
+# Purpose: Streamlit is a Python framework for building interactive web apps for data science and machine learning with very little code.
+
+# Functions:
+
+# Turns Python scripts into interactive dashboards.
+
+# Provides widgets like sliders, buttons, checkboxes, and file uploaders.
+
+# Used to deploy ML models or data visualization apps quickly.
+
+# Example use: Show model predictions on a webpage, visualize graphs interactively.
+
+# 2. OpenCV (opencv-python)
+
+# Purpose: OpenCV is a computer vision library used for processing and analyzing images and videos.
+
+# Functions:
+
+# Reading, displaying, and writing images/videos.
+
+# Image transformations (resize, crop, rotate, flip).
+
+# Edge detection, contour detection, blurring, filtering.
+
+# Face detection, object tracking, motion analysis.
+
+# Example use: Capturing real-time video from a webcam and detecting faces.
+
+# 3. TensorFlow
+
+# Purpose: TensorFlow is a machine learning and deep learning framework developed by Google.
+
+# Functions:
+
+# Build and train neural networks.
+
+# Support for CPU and GPU acceleration.
+
+# Handles large-scale numerical computation.
+
+# Provides pre-trained models (e.g., image classification, NLP).
+
+# Example use: Training an AI to classify images of cats vs dogs.
+
+# 4. Keras
+
+# Purpose: Keras is a high-level API that runs on top of TensorFlow (sometimes Theano or CNTK earlier).
+
+# Functions:
+
+# Makes building deep learning models simpler.
+
+# Provides easy-to-use layers, models, optimizers, and losses.
+
+# Abstracts complex TensorFlow code into simpler syntax.
+
+# Example use: Define a CNN (Convolutional Neural Network) with just a few lines.
+
+# 5. NumPy
+
+# Purpose: NumPy is the fundamental library for numerical computation in Python.
+
+# Functions:
+
+# Handles multi-dimensional arrays (ndarrays).
+
+# Fast mathematical operations (linear algebra, Fourier transforms).
+
+# Provides random number generation and matrix manipulation.
+
+# Example use: Represent an image as a pixel array, perform matrix multiplications in neural networks.
+
+# 6. Pillow (PIL)
+
+# Purpose: Pillow is a Python library for image processing and manipulation.
+
+# Functions:
+
+# Open, save, and convert images in different formats (JPEG, PNG, etc.).
+
+# Resize, crop, rotate, blur, and enhance images.
+
+# Add text, filters, and effects.
+
+# Example use: Preprocess dataset images before feeding into an ML model.
