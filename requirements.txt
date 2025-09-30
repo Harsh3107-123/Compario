@@ -4,6 +4,14 @@ tensorflow
 keras
 numpy
 pillow
+sqlalchemy
+psycopg2-binary
+werkzeug
+streamlit-login-auth-ui==0.3.4
+torch
+torchvision
+transformers
+datasets
 
 # 1. Streamlit
 
